@@ -57,7 +57,7 @@ For each test case, a JSON report file is generated.
 
 ## Bonus Task — Export Top Performer to CSV
 
-1. Uses data from `report_test_case_10.json`  
-2. Identifies the `best_agent`  
+1. Uses data from report_test_case_10.json
+2. Identifies the best_agent 
 3. Exports agent details to a CSV file  
 
